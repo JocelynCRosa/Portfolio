@@ -1,5 +1,5 @@
 
-This is my personal portfolio website.
+personal portfolio to showcase projects
 
 ## Table of Contents
-- [Download a trivia game]()
+- [Download a Trivia Game]()
